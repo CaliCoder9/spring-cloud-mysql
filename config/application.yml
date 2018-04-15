@@ -1,0 +1,9 @@
+message: "Yo World!"
+app_ip: 18.188.197.253
+inventory_ip: 18.218.20.98:8080
+catalog_db_ip: 18.188.200.217
+cart_ip: 13.59.146.96:8080
+cart_db_ip: 18.217.32.235
+invoice_ip: 18.217.157.139:8080
+pg_ip: 18.216.192.217:8080
+zipkin_ip: 18.217.67.235:9411
